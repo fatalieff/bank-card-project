@@ -4,14 +4,6 @@ A modern, interactive credit card component built with **React**. Click the card
 
 ---
 
-## 🎨 Demo
-
-![Credit Card Demo](link-to-your-gif-or-screenshot.gif)
-
-> Tip: Replace the above link with your GIF or screenshot showing the flip animation.
-
----
-
 ## ✨ Features
 
 - **3D Flip Animation**: Smooth card flip on click.
